@@ -1,1 +1,8 @@
-
+Flask
+tensorflow
+Pillow
+numpy
+pandas
+groq
+python-dotenv
+gunicorn
